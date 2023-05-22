@@ -1,0 +1,30 @@
+h1 {
+    color:darkblue;
+    opacity: 0.9;
+    border-image-width: 0fr;
+}
+h2 {
+    color:blue;
+    opacity: 0.7;
+}
+audio {
+    color:blue;
+}
+p {
+    color:crimson;
+    opacity: 0.4;
+}
+html,body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    font: display 90px;
+}
+::backdrop {
+    text-shadow: 0in;
+}
+background-color {
+    color: aquamarine;
+}
+h3 {
+    color:magenta;
+}
